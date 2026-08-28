@@ -1,0 +1,17 @@
+{
+  "pageTitle": "Sectors",
+  "toolbar": { "description": "Manage market sectors" },
+  "addDialog": "Add Sector",
+  "editDialog": "Edit Sector",
+  "code": "Code",
+  "nameFa": "Persian Name",
+  "nameEn": "English Name",
+  "isActive": "Active",
+  "noItems": "No sectors registered",
+  "added": "Sector added",
+  "updated": "Sector updated",
+  "deleted": "Sector deleted",
+  "confirmDelete": "Are you sure to delete this sector?",
+  "loadFailed": "Failed to load sectors",
+  "saveFailed": "Failed to save sector"
+}
