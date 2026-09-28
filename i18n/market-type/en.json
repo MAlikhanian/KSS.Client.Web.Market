@@ -1,0 +1,17 @@
+{
+  "pageTitle": "Market Types",
+  "toolbar": { "description": "Manage market types" },
+  "addDialog": "Add Market Type",
+  "editDialog": "Edit Market Type",
+  "code": "Code",
+  "nameFa": "Persian Name",
+  "nameEn": "English Name",
+  "isActive": "Active",
+  "noItems": "No market types registered",
+  "added": "Market type added",
+  "updated": "Market type updated",
+  "deleted": "Market type deleted",
+  "confirmDelete": "Are you sure to delete this market type?",
+  "loadFailed": "Failed to load market types",
+  "saveFailed": "Failed to save market type"
+}

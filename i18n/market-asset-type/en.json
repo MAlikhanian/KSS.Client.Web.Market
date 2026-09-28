@@ -1,0 +1,17 @@
+{
+  "pageTitle": "Asset Types",
+  "toolbar": { "description": "Manage asset types" },
+  "addDialog": "Add Asset Type",
+  "editDialog": "Edit Asset Type",
+  "code": "Code",
+  "nameFa": "Persian Name",
+  "nameEn": "English Name",
+  "isActive": "Active",
+  "noItems": "No asset types registered",
+  "added": "Asset type added",
+  "updated": "Asset type updated",
+  "deleted": "Asset type deleted",
+  "confirmDelete": "Are you sure to delete this asset type?",
+  "loadFailed": "Failed to load asset types",
+  "saveFailed": "Failed to save asset type"
+}
